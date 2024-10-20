@@ -1,5 +1,3 @@
-from erc20 import ERC20SDK
-
 sdk = ERC20SDK(base_url='https://api.ejemplo.com', network=43113)
 
 # Desplegar un token
